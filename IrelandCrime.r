@@ -34,7 +34,7 @@ colnames(Ireland_crime)[5] <- "OffenseType"
 #Calling the filtered list to show the changes I made to the variable names and also calling only the years 2015 to 2019
 Ireland_crime
 
-
+ 
 
 #Q3
 # The names of some of the offence descriotions are too risky so I will replace the lengthy names with more easily readable names.
