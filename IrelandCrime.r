@@ -78,5 +78,6 @@ Newmissingvlaues
 
 
 
-#Q6
-region <- aggregate(Ireland_crime$borough, by = list(borough), FUN = mean)
+#Q10
+#Export the CSV file
+write.csv("Ireland_crime.csv")
